@@ -1,8 +1,6 @@
-# ============================================================
 # TRABALHO DE ADS - 2º SEMESTRE
 # ALUNO: Thierry Pietro Martin dos Reis | RA: 236041
 # SISTEMA: RentSmart - R.M Imóveis
-# ============================================================
 
 import csv
 
